@@ -1,3 +1,4 @@
+"Use strict";
 const allEmails = ['valid@email.com', 'valid1@email.com', 'valid2@email.com',  'invalidvalid@email.com', 'invalidvalid1@email.com'];
 const blackList = ['invalidvalid@email.com', 'invalidvalid1@email.com'];
 let count;

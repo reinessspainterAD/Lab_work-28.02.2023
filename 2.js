@@ -1,4 +1,4 @@
-"use strict";
+"Use strict";
 function cart(basketAmount, countGoods, promo = null) {
     let totalAmount = basketAmount;
   
